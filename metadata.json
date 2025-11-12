@@ -1,0 +1,5 @@
+{
+  "name": "My AI Chat Assistant",
+  "description": "A versatile and conversational AI chatbot powered by Google Gemini. Engage in discussions on any topic, get help with tasks, brainstorm ideas, and explore new subjects in a friendly, professional, and adaptive chat environment.",
+  "requestFramePermissions": []
+}
